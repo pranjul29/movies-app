@@ -133,7 +133,7 @@ class Header extends Component {
         return (
             <div>
                 <header className="app-header">
-                    <img src={logo} className="app-logo" alt="logo"/>git
+                    <img src={logo} className="app-logo" alt="logo"/>
                     <div className="login-button">
                         <Button variant="contained" color="default" onClick={this.openModalHandler}>
                             Login
